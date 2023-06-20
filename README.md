@@ -11,7 +11,7 @@ Bu depo, React Native framework'ü kullanılarak oluşturulmuş bir React Native
 ### Bu depoyu yerel makinenize klonlayın
 
 ### Proje dizinine gidin:
-cd react-native-sohbet-uygulamasi
+cd chatty
 
 ### Gerekli bağımlılıkları yükleyin:
 npm install
